@@ -40,8 +40,8 @@ Take a quick tour of the interface:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
-cd YOUR-REPO-NAME
+git clone https://github.com/qb2k/CryptoAssistant_assignment_4.git
+cd CryptoAssistant_assignment_4
 ```
 
 ### 2. Install Python dependencies
